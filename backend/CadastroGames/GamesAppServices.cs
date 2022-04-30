@@ -18,12 +18,12 @@ namespace CadastroGames.GameAppServices
         {
             Games Game = new Games(imput.nome,Guid.NewGuid().ToString(),imput.anolancamento,imput.multiplayer,imput?.genero,1);
             Consulta consulta = new Consulta();
-            consulta.inserir(Game.id,Game.nome,Game.anolancamento,Game.multiplayer,Game.genero,Game.existe);
+            consulta.PostInserir(Game.id,Game.nome,Game.anolancamento,Game.multiplayer,Game.genero,Game.existe);
             return Game;
         }
         public static List<GamesString> GetAll()
         {
-            string JsonString = Consulta.getconectar();
+            string JsonString = Consulta.GetListarAll();
             List<GamesString> gamesString = JsonSerializer.Deserialize<List<GamesString>>(JsonString);
            
            /* foreach (var item in gamesString)
@@ -37,6 +37,14 @@ namespace CadastroGames.GameAppServices
            
         
             return gamesString;
+        }
+
+        public static object alterarDados(Games Game)
+        {
+        
+            Consulta consulta = new Consulta();
+            consulta.PostAlterar(Game.id,Game.nome,Game.anolancamento,Game.multiplayer,Game.genero,Game.existe);
+            return Game;
         }
       
     }

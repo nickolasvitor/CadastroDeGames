@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M08nXaixJc/obyy8qZAeMVRpPbPsAHHGByY2x3aqdlb7Dbz7j4EATQXiKOPuk/NyVmcKS36bMuxqxUGeBs5UjA==",
+  "dgSpecHash": "w5Matt52aTVbCv1//jXM0oHZFDnVjEiFEOCspgwnYmikMQiuwQDSG8M2bPWnAP3BemTHBYH4fBcPmfu0VRmgeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\Games\\CadastroGames\\CadastroGames.csproj",
+  "projectFilePath": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\backend\\CadastroGames\\CadastroGames.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nickolas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nickolas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.2\\microsoft.aspnetcore.jsonpatch.6.0.2.nupkg.sha512",

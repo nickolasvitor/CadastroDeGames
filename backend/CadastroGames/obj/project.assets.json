@@ -2744,11 +2744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\Games\\CadastroGames\\CadastroGames.csproj",
+      "projectUniqueName": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\backend\\CadastroGames\\CadastroGames.csproj",
       "projectName": "CadastroGames",
-      "projectPath": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\Games\\CadastroGames\\CadastroGames.csproj",
+      "projectPath": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\backend\\CadastroGames\\CadastroGames.csproj",
       "packagesPath": "C:\\Users\\Nickolas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\Games\\CadastroGames\\obj\\",
+      "outputPath": "C:\\Users\\Nickolas\\Documents\\Faculdade\\ADS\\C#\\Github\\CadastroGames\\backend\\CadastroGames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nickolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
